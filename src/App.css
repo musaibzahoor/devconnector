@@ -36,6 +36,8 @@
     transform: rotate(360deg);
   }
 } */
+ import './App.css';
+
  body {
   background-color: #f2f2f2;
   font-family: 'Segoe UI', sans-serif;
